@@ -23,7 +23,7 @@
 <div style="overflow-x:auto;">
 
 - 🔭 **Current Focus:** Scaling **VolumePro X** (Crypto Automation) and **EasyEasy AI**.
-- 🎓 **Education:** Final year B.Eng. Telecommunication Engineering at ABU Zaria.
+- 🎓 **Education:** 200lvl B.Eng. Telecommunication Engineering at ABU Zaria.
 - 🐍 **Expertise:** Python (FastAPI/Flask), Node.js, and Cross-Platform Bots.
 - 🌱 **Learning:** High-performance systems and advanced TypeScript patterns.
 - 👯 **Open to:** Collaborative FinTech projects and Open Source contributions.
@@ -52,9 +52,9 @@
 
 | Project | Description | Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **VolumePro X** | Multi-exchange trading automation suite. | `Python` `FastAPI` | [Repo 🚀](https://github.com/Omogbai7) |
-| **Africa E-library** | Cultural illustration hub for designers. | `Next.js` `Firebase` | [Waitlist 📋](https://github.com/Omogbai7) |
-| **EasyEasy AI** | WhatsApp marketing & E-commerce automation. | `Node.js` `OpenAI` | [Demo 🎥](https://github.com/Omogbai7) |
+| **VolumePro X** | Multi-exchange trading automation suite. | `Python` `FastAPI` | [Repo 🚀](https://github.com/IODEV-NG) |
+| **Africa E-library** | Cultural illustration hub for designers. | `Next.js` `Firebase` | [Waitlist 📋](https://github.com/IODEV-NG) |
+| **EasyEasy AI** | WhatsApp marketing & E-commerce automation. | `Node.js` `OpenAI` | [Demo 🎥](https://github.com/IODEV-NG) |
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omogbai7&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IODEV-NG&theme=tokyonight&hide_border=true)
 
 <br>
 
@@ -73,14 +73,14 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omogbai7&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IODEV-NG&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Omogbai7&label=Profile%20Views&color=4FC3F7&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=IODEV-NG&label=Profile%20Views&color=4FC3F7&style=flat-square" alt="Profile Views" />
 <br>
 <sub>Last updated: January 2026</sub>
 </div>
