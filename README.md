@@ -22,14 +22,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **VolumePro X**, a multi-exchange crypto/forex automation suite.
-- 🎓 200lvl **Telecommunication Engineering** student at Ahmadu Bello University (2026).
-- 🐍 Specialist in **Python-based backend systems** (FastAPI, Flask) and **Automation Bots**.
-- 👯 I’m looking to collaborate on **Open Source FinTech or AI tools**.
-- 💬 Ask me about **API Architecture, WhatsApp/Telegram Bots, or Graphic Design.**
-- ⚡ Fun fact: I balance my time between debugging complex logic and designing brand identities.
-
----
+- 🔭 **Current Focus:** Scaling **VolumePro X** (Crypto Automation) and **EasyEasy AI**.
+- 🎓 **Education:** Final year B.Eng. Telecommunication Engineering at ABU Zaria.
+- 🐍 **Expertise:** Python (FastAPI/Flask), Node.js, and Cross-Platform Bots.
+- 🌱 **Learning:** High-performance systems and advanced TypeScript patterns.
+- 👯 **Open to:** Collaborative FinTech projects and Open Source contributions.
 
 ### 🛠️ Tech Stack & Tools
 
