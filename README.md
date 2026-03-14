@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Current Focus:** Scaling **VolumePro X** (Crypto Automation) and **EasyEasy AI**.
-- 🎓 **Education:** Final year B.Eng. Telecommunication Engineering at ABU Zaria.
+- 🎓 **Education:** 200lvl B.Eng. Telecommunication Engineering at ABU Zaria.
 - 🐍 **Expertise:** Python (FastAPI/Flask), Node.js, and Cross-Platform Bots.
 - 🌱 **Learning:** High-performance systems and advanced TypeScript patterns.
 - 👯 **Open to:** Collaborative FinTech projects and Open Source contributions.
