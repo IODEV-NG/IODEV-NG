@@ -33,6 +33,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/israelOmogbai)
 
 ## 🛠️ Tools & Technologies
+---
 
 ### 🎨 Design
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
