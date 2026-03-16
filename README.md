@@ -5,15 +5,16 @@
 <p align="center">I build backend systems, automation platforms, trading bots, and AI-powered applications 🚀</p>
 
 <p align="center">
-  <img src="https://github.com/IODEV-NG/git-tutorial/blob/master/giphy.gif" width="400" alt="Coding guy" />
+I build backend systems, automation platforms, trading bots, and AI-powered applications.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=official_iisrae&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/official_iisrae" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/official_iisrae?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Engineer;Python+%2B+FastAPI;Automation+Systems;Bot+Developer;Telecom+Engineering+Student"/>
+</a>
+
+</div>
 
 ## 🚀 About Me
 
