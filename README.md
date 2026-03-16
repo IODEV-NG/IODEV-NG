@@ -96,16 +96,16 @@ I enjoy solving complex problems and building tools that improve efficiency thro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izimartin&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izimartin&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IODEV-NG&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IODEV-NG&layout=compact&theme=dark" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izimartin&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IODEV-NG&theme=dark" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Izimartin&theme=github-dark&area=true" height="150"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=IODEV-NG&theme=github-dark&area=true" height="150"/>
 </p>
 
 > ⚠️ _Note: These stats reflect my GitHub activity, not all my experience or projects._
