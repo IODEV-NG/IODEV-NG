@@ -16,54 +16,30 @@ I build backend systems, automation platforms, trading bots, and AI-powered appl
 
 </div>
 
----
+## 🚀 About Me
 
-# 🚀 About Me
+- 💼 Founder @IoGrab – Fullstack Unversial Social Media Downloader
+- 🍔 Cofounder @Acadex – An 
+- 🐍 **Expertise:** Python (FastAPI/Flask/Django), Node.js, and Cross-Platform Bots.
+- 🌱 **Learning:** High-performance systems and advanced TypeScript patterns.
+- 📬 Contact: **omogbaiisrael7@gmail.com**
+- 🎓 200lvl B.Eng. Telecommunication Engineering at ABU Zaria.
+- 🤝 Open to collabs, freelance gigs & MVP builds for founders
 
-I'm a backend-focused software developer passionate about building **scalable systems, automation platforms, and API-driven applications**.
 
-Over the past **2+ years**, I have developed solutions ranging from **crypto trading bots to automation systems and web platforms**.
+## 🔗 Connect With Me
 
-🎓 Currently studying **B.Eng. Telecommunication Engineering** at Ahmadu Bello University, Zaria.
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-omogbai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@israelOmogbai)
+[![YouTube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@official_iisrael/featured)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349131758337)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/israelOmogbai)
 
-I enjoy solving complex problems and building tools that improve efficiency through **automation and intelligent backend architecture**.
+## 🛠️ Tools & Technologies
 
----
-
-# 🔗 Connect With Me
-
-<p align="center">
-
-<a href="https://x.com/official_iisrae">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://www.linkedin.com/in/israel-omogbai">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.youtube.com/@official_iisrael">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="https://wa.me/2348072211933">
-<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
-</a>
-
-</p>
-
----
-
-# ⚡ What I Do
-
-• Backend Development  
-• API Development & Integration  
-• Automation Systems  
-• Telegram & WhatsApp Bots  
-• Crypto Trading Bots  
-• AI Integration
-
----
+### 🎨 Design
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,14 +51,14 @@ I enjoy solving complex problems and building tools that improve efficiency thro
 ### ⚙️ Frameworks & Libraries
 
 ### 🐍 Python Web Frameworks
-- [Django](https://github.com/django/django)
-- [Flask](https://github.com/pallets/flask)
-- [FastAPI](https://github.com/fastapi/fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🤖 Automation & Bots
-- [Selenium](https://github.com/SeleniumHQ/selenium)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Beautiful Soup](https://github.com/wention/BeautifulSoup4)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -91,7 +67,22 @@ I enjoy solving complex problems and building tools that improve efficiency thro
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0D96F6?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### 🚀 Hosting & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF3E30?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+
+## 💼 Soft Skills
+
+✅ Backend Development  
+✅ API Development & Integration  
+✅ Automation Systems  
+✅ Telegram & WhatsApp Bots  
+✅ Crypto Trading Bots  
+✅ AI Integration
 
 ## 📈 GitHub Stats
 
