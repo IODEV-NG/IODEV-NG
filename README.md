@@ -4,10 +4,6 @@
 <h3 align="center">Backend Engineer & Automation Developer | Founder @IOGrab • Cofounder @Acadex</h3>
 <p align="center">I build backend systems, automation platforms, trading bots, and AI-powered applications 🚀</p>
 
-<p align="center">
-I build backend systems, automation platforms, trading bots, and AI-powered applications.
-</p>
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <a href="https://git.io/typing-svg">
