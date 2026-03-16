@@ -65,87 +65,56 @@ I enjoy solving complex problems and building tools that improve efficiency thro
 
 ---
 
-# 🛠 Tech Stack
-
-### Languages
-
+### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### ⚙️ Frameworks & Libraries
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+### 🐍 Python Web Frameworks
+- [Django](https://github.com/django/django)
+- [Flask](https://github.com/pallets/flask)
+- [FastAPI](https://github.com/fastapi/fastapi)
 
-### Frontend
+### 🤖 Automation & Bots
+- [Selenium](https://github.com/SeleniumHQ/selenium)
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Beautiful Soup](https://github.com/wention/BeautifulSoup4)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Databases
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D96F6?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# 📌 Featured Projects
-
-### VolumePro X
-Multi-exchange crypto trading automation platform with license management and strategy execution.
-
-### EasyEasy AI
-AI-powered WhatsApp automation bot designed for e-commerce and marketing.
-
-### iOGrab
-Universal API for downloading content from social media platforms.
-
-### Africa E-Library
-A digital hub for African illustrations and design resources.
-
----
-
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IODEV-NG&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IODEV-NG&layout=compact&theme=tokyonight&hide_border=true" height="160">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Izimartin&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izimartin&layout=compact&theme=dark" height="150"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IODEV-NG&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izimartin&theme=dark" height="150"/>
 </p>
-
----
-
-# 🤝 Open to Collaboration
-
-I enjoy working on **challenging backend systems, automation platforms, and scalable applications**.
-
-If you're building something interesting in:
-
-• FinTech  
-• Automation  
-• AI Systems  
-• Backend Infrastructure  
-
-Let's collaborate.
-
----
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=IODEV-NG&label=Profile%20Views&color=blue&style=flat"/>
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=Izimartin&theme=github-dark&area=true" height="150"/>
 </p>
 
----
+> ⚠️ _Note: These stats reflect my GitHub activity, not all my experience or projects._
 
-⭐ *“The code you write makes you a programmer. The code you delete makes you a good one.”*
+
+## 🙌 Thanks for stopping by!
+
+> _“Building tech that connects people, solves problems, and inspires growth.”_
+
+<!--
+📌 PS: This README is dynamic. Feel free to fork and customize your own.
+-->
