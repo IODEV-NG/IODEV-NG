@@ -1,10 +1,12 @@
 <div align="center">
 
-<h1 align="center">👋 Hi, I'm Israel Omogbai</h1>
-<h3 align="center">Backend Engineer & Automation Developer | Founder @IOGrab • Cofounder @Acadex</h3>
-<p align="center">I build backend systems, automation platforms, trading bots, and AI-powered applications 🚀</p>
+<img src="https://raw.githubusercontent.com/IODEV-NG/IODEV-NG/main/EA871DF8-AEE7-488E-8905-574AFA1669BF.GIF" width="600px" alt="Aesthetic Banner"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">👋 Hi, I'm Israel Omogbai</h1>
+<h3 align="center">Backend Engineer & Automation Developer | Building APIs, AI Systems & Bots</h3>
+<p align="center">I build production ready backend systems, automation platforms, AI-powered applications, and developer tools.</p>
+
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Engineer;Python+%2B+FastAPI;Automation+Systems;Bot+Developer;Telecom+Engineering+Student"/>
@@ -14,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 💼 Founder @IoGrab – Fullstack Unversial Social Media Downloader
+- 💼 Founder @IoGrab – Full-stack Unversial Social Media Downloader
 - 🍔 Cofounder @Acadex – An 
 - 🐍 **Expertise:** Python (FastAPI/Flask/Django), Node.js, and Cross-Platform Bots.
-- 🌱 **Learning:** High-performance systems and advanced TypeScript patterns.
+- 🌱 **Currently exploring:** High-performance systems, distributed systems, and advanced TypeScript.
 - 📬 Contact: **omogbaiisrael7@gmail.com**
 - 🎓 200lvl B.Eng. Telecommunication Engineering at ABU Zaria.
 - 🤝 Open to collabs, freelance gigs & MVP builds for founders
