@@ -17,11 +17,11 @@
 ## 🚀 About Me
 
 - 💼 Founder @IoGrab – Full-stack Unversial Social Media Downloader
-- 🍔 Cofounder @Acadex – An 
+- 🍔 Cofounder @Acadex –
 - 🐍 **Expertise:** Python (FastAPI/Flask/Django), Node.js, and Cross-Platform Bots.
 - 🌱 **Currently exploring:** High-performance systems, distributed systems, and advanced TypeScript.
 - 📬 Contact: **omogbaiisrael7@gmail.com**
-- 🎓 200lvl B.Eng. Telecommunication Engineering at ABU Zaria.
+- 🎓 300lvl B.Eng. Telecommunication Engineering at ABU Zaria.
 - 🤝 Open to collabs, freelance gigs & MVP builds for founders
 
 
